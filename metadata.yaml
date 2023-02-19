@@ -1,5 +1,8 @@
 _repo: The-valley-of-Arcana_69880
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69880-h/images/cover.jpg
 creator:
   author:
     agent_name: Hankins, Arthur Preston
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '8490'
     url: http://www.gutenberg.org/2009/agents/8490
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69880#The-valley-of-Arcana
 gutenberg_issued: '2023-01-26'
 identifiers:
   gutenberg: '69880'
